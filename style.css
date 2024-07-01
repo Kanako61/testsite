@@ -1,1 +1,8 @@
 @charset "utf-8";
+body {
+    background:#fff;
+}
+p {
+    background:#ccc;
+    font-size:16px;
+}
